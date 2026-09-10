@@ -35,6 +35,14 @@ Key areas analyzed included:
 - Payment method distribution
 - Order status distribution
 - Coupon code usage
+  ## Project 4: Data Visualization & Dashboard
+  This project focused on transforming the cleaned e-commerce dataset into an interactive Excel dashboard to communicate key sales and order performance insights.
+  ### Key activities
+- Created PivotTables to summarize key sales and order metrics.
+- Developed KPIs for total orders, total order value, and average order value.
+- Created charts to visualize sales and order trends.
+- Analyzed monthly order value performance across 2023, 2024, and 2025.
+- Designed an interactive dashboard for clear and effective data storytelling.
 ## Tools used:
 - Microsoft Excel
 - Power query
@@ -52,7 +60,11 @@ Key areas analyzed included:
 - SUM and AVG
 - GROUP BY
 - ORDER BY
+- PivotTables
+- PivotCharts
+- Excel formulas
 - Data analysis and interpretation
+- Data visualization
 - Data Storytelling
 - Insight Generation
   ## Key Takeaway
